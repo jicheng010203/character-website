@@ -1,3 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe:ital@0;1&family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+
 body{
-    background-color: black;
+    background-color: ivory;
+    margin : 0px;
+}
+
+header{
+    padding : 20px;
+    background-color : chocolate;
+    color: ivory;
+}
+
+header img {
+    border : 0 px;
+    border-radius: 50%;
+}
+
+header h1{
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+
+}
+
+.center {
+    display : block;
+    margin: auto auto;
+    text-align: center;
 }
